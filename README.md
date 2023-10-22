@@ -1,4 +1,4 @@
 "# py_racing_betting_game" 
 
 
-![project_img]("/images/racinggamepy.JPG")
+![project_img](/images/racinggamepy.JPG)
